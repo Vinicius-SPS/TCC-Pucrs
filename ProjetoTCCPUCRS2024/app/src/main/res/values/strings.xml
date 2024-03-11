@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">projet-tcc-pucrs-2024</string>
+
+    <!-- Tela Inicial | Cadastrar | Login -->
+    <string name="welcome">Seja Bem Vindo!</string>
+    <string name="login">Login</string>
+    <string name="register">Cadastrar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="forgot_password">Esqueci da minha senha.</string>
+    <string name="i_dont_have_account">Não tenho uma conta. Criar agora!</string>
+    <string name="i_have_account">Já tenho uma conta. Entrar agora!</string>
+
+    <string name="type_email">Digite o seu endereço de e-mail</string>
+
+
+    <string name="type_password">Digite a sua senha</string>
+    <string name="confirm_password">Digite nomavente a sua senha</string>
+
+    <string name="register_text">Preencha os campos abaixo para efetuar o cadastro!</string>
+
+
+    <!-- PASWROD RECOVERY -->
+    <string name="recover_password_text">Digite o endereço de email para alterar a senha!</string>
+    <string name="email_recover_password_sent_text">Um email para a alteração de senha foi enviado para o endereço digitado!</string>
+    <string name="send_email">Enviar</string>
+    <string name="forgot_password_text">Enviar</string>
+    <string name="forgot_password_title">Esqueci da minha senha</string>
+
+    <!-- CREATE PROFILE | PROFILE -->
+    <string name="create_profile_text">Criar Perfil</string>
+    <string name="user_name_subtitle">Digite o seu nome de usuário. Ele será visível para todos os usuários!</string>
+
+    <string name="user_name_text">Nome de usuário</string>
+    <string name="play_style">Estilo de jogo</string>
+    <string name="spoken_lenguages">Idiomas</string>
+    <string name="plataforms">Plataformas</string>
+    <string name="what_i_play">O que jogo</string>
+    <string name="frequency_i_play">Frequência que jogo</string>
+    <string name="next_text">Próximo</string>
+    <string name="finish_text">Finalizar</string>
+
+    <string name="tags_text">Selecione as tags que você mais se identifica</string>
+
+    <!-- ERRORS -->
+    <string name="error_mandatory_field">Campo Obrigatório.</string>
+    <string name="error_user_terms_mandatory">É preciso concordar com os termos de uso.</string>
+    <string name="error_invalid_bellow_password">A senha precisa conter mais de 6 caracteres.</string>
+    <string name="error_invalid_email">Email inválido.</string>
+    <string name="error_invalid_name">Nome inválido.</string>
+    <string name="error_existing_name">Nome já utilizado.</string>
+    <string name="error_min_password">A senha tem que ter no mínimo 6 caractéres.</string>
+    <string name="error_diff_password">As senhas tem que ser iguais.</string>
+    <string name="error_invalid_cellphone">Telefone inválido.</string>
+    <string name="title_activity_app">AppActivity</string>
+
+</resources>
